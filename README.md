@@ -59,95 +59,95 @@ Velocity - *You dont taking knockback*
 
 **EXPLOITS:**
 
-AntiHunger - Prevents you from hunger
+AntiHunger - *Prevents you from hunger*
 
-ClickTP - Tp you on blocks you aim lol
+ClickTP - *Tp you on blocks you aim lol*
 
-AutoDupe Automaticly dupes on 5b5t
+AutoDupe - *Automaticly dupes on 5b5t*
 
-EntityDesync - Desynces you from entity. Useful for duping
+EntityDesync - *Desynces you from entity. Useful for duping*
 
-Entity Control - Control mobs. (pigs, llamas, donkeys, horses...)
+Entity Control - *Control mobs. (pigs, llamas, donkeys, horses...)*
 
-Reach - Adding you higher range
+Reach - *Adding you higher range*
 
-Jesus - Allows you walk on water
+Jesus - *Allows you walk on water*
 
-FastRegen - Regenerating health fastes than normal
+FastRegen - *Regenerating health fastes than normal*
 
-LiquidInteract - Allows you to place blocks on liquids
+LiquidInteract - *Allows you to place blocks on liquids*
 
-NoFall - Prevents you from fall damage
+NoFall - *Prevents you from fall damage*
 
-Phase - Make blocks like liquids. Userful for long distance traveling in nether
+Phase - *Make blocks like liquids. Userful for long distance traveling in nether*
 
-PacketFly - Glitching packets and allows you to fly
+PacketFly - *Glitching packets and allows you to fly*
 
-PortalGodMode - Make you godmode in portal
+PortalGodMode - *Make you godmode in portal*
 
 **MISC:**
 
-Announcer - Send info in chat what you doing XD
+Announcer - *Send info in chat what you doing XD. Movement, breaking taking...)*
 
-AntiAFK - Prevents you from kick from AFKing
+AntiAFK - *Prevents you from kick from AFKing*
 
-AntiAim - When you fighting enemy it looks you retarded
+AntiAim - *When you fighting enemy it looks you retarded*
 
-AntiVanish - Types in chat when someone go to vanish mode
+AntiVanish - *Types in chat when someone go to vanish mode*
 
-AutoAccept - Automaticly accept tpa reqests
+AutoAccept - *Automaticly accept tpa reqests*
 
-AutoDeny - Automaticly denies tpa reqests
+AutoDeny - *Automaticly denies tpa reqests*
 
-AutoEat - Automaticly eats when you on low hunger or hearts
+AutoEat - *Automaticly eats when you on low hunger or hearts*
 
-AutoFarm - Automaticly farms
+AutoFarm - *Automaticly farms*
 
-AutoFish - Automaticly grabbing fishes like usain bolt
+AutoFish - *Automaticly grabbing fishes like usain bolt*
 
-AutoMount - Automaticly mounts chest on llama or donkey
+AutoMount - *Automaticly mounts chest on llama or donkey*
 
-AutoReconnect - Automaticly reconnects when you are kicked
+AutoReconnect - *Automaticly reconnects when you are kicked*
 
-AutoRespawn - Automaticly respawns when you die (really need on this?)
+AutoRespawn - *Automaticly respawns when you die (really need on this?)*
 
-SkinBlinker - Toggles skin layers
+SkinBlinker - *Toggles skin layers*
 
-Sneak - Automaticly sneaks
+Sneak - *Automaticly sneaks*
 
-Spammer - Spamms random or custom message in chat
+Spammer - *Spamms random or custom message in chat*
 
-Timer - Make all faster like brrrrrrrrrrrrrrrrrrrrrrrrrrrr
+Timer - *Make all faster like brrrrrrrrrrrrrrrrrrrrrrrrrrrr*
 
-XCarry - Hold items in your crafting space
+XCarry - *Hold items in your crafting space*
 
 **MOVEMENT:**
 
-AutoWalk - Automaticly walks straight
+AutoWalk - *Automaticly walks straight*
 
-AntiLevitation - Prevents your from shulker levitation effect
+AntiLevitation - *Prevents your from shulker levitation effect*
 
-BoatFly - You can fly in boat like brrrrrrr
+BoatFly - *You can fly in boat like brrrrrrr*
 
-ElytraFly - Make elytra easier to use. Useful for long distance traveling
+ElytraFly - *Make elytra easier to use. Useful for long distance traveling*
 
-EntityControl - You can control entityes without saddle
+EntityControl - *You can control entities without saddle*
 
-EntitySpeed - Make all entities faster
+EntitySpeed - *Make all entities faster*
 
-FakeLag
+FakeLag - 
 
-FastFall - Make you falling brrrrr
+FastFall - *Make you falling brrrrr*
 
-FastSwim - Swim faster than normal
+FastSwim - *Swim faster than normal*
 
-Flight - Flight on server without anticheat
+Flight - *Flight on server without anticheat*
 
-HighJump - You jumping over 3 blocks
+HighJump - *You jumping over 3 blocks*
 
-LongJump - You can jump veeeerrrryyyyyy faaaarrrr
+LongJump - *You can jump veeeerrrryyyyyy faaaarrrr*
 
-IceSpeed - Make you fast on ice bruh
+IceSpeed - *Make you fast on ice bruh*
 
 Speed - *Make you fast like usain bald*
 
@@ -161,17 +161,17 @@ Yaw
 
 BreadCumbs -
 
-Chams - Changes color of entities to see them throught wall
+Chams - *Changes color of entities to see them throught wall*
 
-ESP - Draws an outline over entities and chests
+ESP - *Draws an outline over entities and chests*
 
-Freecam - Make you spectator mode
+Freecam - *Make you spectator mode*
 
-Fullbright - Make your brighness high to see everything in dark
+Fullbright - *Make your brighness high to see everything in dark*
 
-Nametags - Draws nametags with armor around players
+Nametags - *Draws nametags with armor around players*
 
-NoBob - No view bobbing
+NoBob - *No view bobbing*
 
 NoRender -
 
