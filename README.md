@@ -28,8 +28,8 @@ after gradlew succes, go to ```build\libs\```
 take file with relase with name and put it into a ur mods folder
 
 **Modules**
-
-COMBAT:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**COMBAT:**
 
 Anchor - *Stops all movement when you over a hole*
 
@@ -85,7 +85,7 @@ PacketFly - Glitching packets and allows you to fly
 
 PortalGodMode - Make you godmode in portal
 
-MISC:
+**MISC:**
 
 Announcer - Send info in chat what you doing XD
 
@@ -121,7 +121,7 @@ Timer - Make all faster like brrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 XCarry - Hold items in your crafting space
 
-MOVEMENT
+**MOVEMENT:**
 
 AutoWalk - Automaticly walks straight
 
@@ -149,15 +149,15 @@ LongJump - You can jump veeeerrrryyyyyy faaaarrrr
 
 IceSpeed - Make you fast on ice bruh
 
-Speed
+Speed - *Make you fast like usain bald*
 
-Sprint - Basic toggle sprint
+Sprint - *Basic toggle sprint*
 
-Step - Allows you to go up 1-2-5 blocks
+Step - *Allows you to go up 1-5 blocks high*
 
 Yaw
 
-RENDER
+**RENDER**
 
 BreadCumbs -
 
@@ -189,6 +189,6 @@ ViewClip -
 
 Waypoints -
 
-ItemViewModel - You can see items in your hands in any angle
+ItemViewModel - *You can see items in your hands in different angle*
 
-WORLD
+**WORLD**
