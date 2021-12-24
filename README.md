@@ -2,7 +2,7 @@
 
 
 **Info:**
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.12.2 Utitity Mod for anarchy servers
 
 imported some modules from wurst plus three, 3aerthh4ck and gamesense
@@ -17,13 +17,13 @@ after download a source file and with cmd cd to nodus client folder. (by draggin
 command: cd C:\%username%\Desktop\nodusclient1.0.0
 
 if you make cd to folder type:
-
+```
 gradlew setupdecompworkspace
 gradlew clean
 gradlew build
 DONT BE LAZY about this step can take long time :(
-
-after gradlew succes, go to build\libs\
+```
+after gradlew succes, go to ```build\libs\```
 
 take file with relase with name and put it into a ur mods folder
 
